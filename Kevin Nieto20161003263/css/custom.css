@@ -1,0 +1,73 @@
+.bg-dark{   
+  background-color: white !important;
+}
+#boton-search{
+background-color: #E9ECEF;
+    border: none;
+    color: black;
+}
+#centrado{
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-color: #E9ECEF;
+    padding-top: 5rem; 
+}
+#video1{
+    background-image: url(../img/1.jpg);
+     background-repeat: no-repeat;
+     background-size:cover;
+}
+#video2{
+    background-image: url(../img/2.jpg);
+     background-repeat: no-repeat;
+     background-size:cover;
+}
+#video3{
+    background-image: url(../img/3.jpg);
+     background-repeat: no-repeat;
+     background-size:cover;
+}
+#video4{
+    background-image: url(../img/4.jpg);
+     background-repeat: no-repeat;
+     background-size:cover;
+}
+#video5{
+    background-image: url(../img/5.jpg);
+     background-repeat: no-repeat;
+     background-size:cover;
+}
+#video6{
+    background-image: url(../img/6.jpg);
+     background-repeat: no-repeat;
+     background-size:cover;
+}
+#video7{
+    background-image: url(../img/7.jpg);
+     background-repeat: no-repeat;
+     background-size:cover;
+}
+.tamanovideos{
+    width: 100%;
+    height: 100px;
+    background-color: black
+}
+.letras-pequenas{
+    color: gray;
+    font-size: 15px;
+}
+#formulario-signup .form-control{
+    margin:5px;
+}
+.btn-success{
+    background-color:#FF0000;
+    font-weight: bold;
+    width: 168px;
+    border: none;
+    
+}
+#buscador{
+    width: 300px;
+}
